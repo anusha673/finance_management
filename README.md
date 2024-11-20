@@ -1,4 +1,4 @@
-PES1UG23CS087, PESIUG23CS099, PES1UG23CS107
+ANUSHA SRIRAM: PES1UG23CS087, ARCHI: PESIUG23CS099, ARYA: PES1UG23CS107
 
 This is a Finance Management Application using React, MongoDb Compass for data storage, react and express.
 
